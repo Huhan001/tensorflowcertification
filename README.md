@@ -1,2 +1,3 @@
 # tensorflowcertification
-Preparation
+Passed the Exam. and now officially certified. 
+Certified Tensorflow Developer. 
